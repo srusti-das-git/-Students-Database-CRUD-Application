@@ -26,6 +26,23 @@ A REST API built using **Python, FastAPI, and SQLite** to manage student records
 - Uvicorn
 - Pytest
 - Ollama (optional AI extension)
+## 📸 Project Screenshots
+
+### 1. Swagger UI — API Documentation
+![Swagger UI](app/screenshots/01-swagger-home.png)
+
+### 2. Create Student
+![Create Student](app/screenshots/02-create-student.png)
+
+### 3. Get Students
+![Get Students](app/screenshots/03-get-students.png)
+
+### 4. Update Student
+![Update Student](app/screenshots/04-update-student.png)
+
+### 5. Delete Student
+![Delete Student](app/screenshots/05-delete-student.png)
+
 
 ## Project Structure
 
